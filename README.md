@@ -4,7 +4,7 @@ A script that installs the latest version of Bitwig Studio on Fedora.
 
 ## Current Bitwig version in this script
 
-<strong>3.2</strong>
+<strong>3.2.1</strong>
 
 ## Installation
 
